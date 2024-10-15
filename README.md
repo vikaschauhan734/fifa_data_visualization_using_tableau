@@ -51,3 +51,7 @@ Rank the goalkeepers accordingly and display the results.
 5. **Top 10 Players from each position:** Your objective is to create an interactive dashboard in Tableau that allows users to select a position and view the top 10 players for that position based on their overall rating. Create a parameter that enables the selection of different player positions. Develop a calculated field to filter players based on the selected position. Create a ranking field to rank players by their overall rating within the selected position. Filter the data to show only the top 10 players for the selected position. Design a bar chart to display these top 10 players, including their names and overall ratings. Enhance the chart with tooltips that show additional player details such as club, nationality, and age. Assemble these components into a cohesive and interactive dashboard that dynamically updates based on the selected position.
 
 6. **Create a Dashboard:** Assemble the four charts into a single, cohesive dashboard. Ensure that the dashboard is interactive and visually appealing, providing clear and insightful information at a glance.
+
+![Dashboard 1](dashboard1.png)
+
+![Dashboard 2](dashboard2.png)
